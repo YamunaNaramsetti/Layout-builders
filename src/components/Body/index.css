@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.para1 {
+  border-radius: 20px;
+  border-style: solid;
+}
+.body-cont {
+  display: flex;
+  flex-direction: row;
+}
